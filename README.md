@@ -1,4 +1,4 @@
-# <p align="center"><style="width: 350px; margin-bottom: -25px" alt="First Portofolio"></p>
+# <p align="center"><img src="staticfiles/assets/logo/icon_horizontal.png" style="width: 350px; margin-bottom: -25px" alt="First Portofolio"></p>
 
 This web application is a personal project.
 
